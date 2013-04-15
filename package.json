@@ -1,0 +1,15 @@
+{
+  "name": "flowchain",
+  "version": "0.0.1",
+  "description": "Flow control with chainable API & shared state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Dave Tonge",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "~1.4.4"
+  }
+}
