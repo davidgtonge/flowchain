@@ -1,5 +1,7 @@
 ### Flow Control with Chainanble API & Shared State
 
+Available on NPM: `npm install flowchain`
+
 Docs coming soon. Here is an example:
 
 ```coffeescript
